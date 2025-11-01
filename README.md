@@ -48,6 +48,5 @@ Portfolio/
 ---
 
 ## 🛠 How to Run Locally
-1. Clone the repository:
-   ```bash
+1. https://github.com/Harsh-vedi/portfolio-web-applicaiton/tree/main
   
