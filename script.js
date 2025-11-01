@@ -1,0 +1,5 @@
+// Simple form alert for now
+document.querySelector("form").addEventListener("submit", (e) => {
+  e.preventDefault();
+  alert("Thank you for reaching out! I'll get back to you soon.");
+});
